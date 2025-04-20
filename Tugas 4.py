@@ -81,9 +81,8 @@ def solution_05():
         epochs=15,
         verbose=1
     )
-    
-    return model
 
+    return model
 
 # The code below is to save your model as a .h5 file.
 # It will be saved automatically in your Submission folder.
